@@ -1,4 +1,4 @@
 # Abruptly_Goblins
 
-Dictionary manipulation in Python \n
+Dictionary manipulation in Python  
 Codecademy
